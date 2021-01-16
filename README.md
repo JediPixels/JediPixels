@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 [![Youtube](https://img.shields.io/static/v1?label=JediPixels&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/JediPixels?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/JediPixels?logo=GitHub&style=for-the-badge)][github]
+[![Website](https://img.shields.io/static/v1?label=JediPixels&message=Blog&color=5FB709&style=for-the-badge)][website]
 
 ### Projects Website Links
 
