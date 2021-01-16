@@ -62,5 +62,5 @@ Current Projects that I have developed from ground zero to release using Flutter
 [youtube]: https://www.youtube.com/JediPixels?sub_confirmation=1
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJediPixels&screen_name=JediPixels
 [github]: https://github.com/JediPixels
-[website]: https://JediPixels.dev
+[website]: https://JediPixels.dev/blog
 
