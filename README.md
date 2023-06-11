@@ -35,7 +35,7 @@ Join Marco on this exciting journey of app development and exploration in the wo
 [![GitHub followers](https://img.shields.io/github/followers/JediPixels?logo=GitHub&style=for-the-badge)][github]
 [![Website](https://img.shields.io/static/v1?label=JediPixels&message=Blog&color=5FB709&style=for-the-badge)][website]
 [![Website2](https://img.shields.io/static/v1?label=Pixolini&message=Corporate&color=5FB709&style=for-the-badge)][website]
-[![Website3](https://img.shields.io/static/v1?label=Property Flip or Hold&message=Web-App&color=5FB709&style=for-the-badge)][website]
+[![Website3](https://img.shields.io/static/v1?label=Property-Flip-Or-Hold&message=Web-App&color=5FB709&style=for-the-badge)][website]
 
 ### Projects Website Links
 
