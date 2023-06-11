@@ -66,7 +66,8 @@ Current Projects that I have developed from ground zero to release using Flutter
 
 *   [https://JediPixels.dev](https://JediPixels.dev)
 *   [https://medium.com/@JediPixels](https://medium.com/@JediPixels)
-*   [http://pixolini.com/blog](http://pixolini.com/blog)
+*   [https://pixolini.com/blog](https://pixolini.com/blog)
+*   [https://propertyfliporhold.com/blog](https://propertyfliporhold.com/blog)
 
 **Beginning Flutter Book**
 
