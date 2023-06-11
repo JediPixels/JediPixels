@@ -15,12 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Marco** is the CEO of Pixolini, Inc., an experienced mobile, web, and desktop app developer. He has a strong proven record in developing visually elegant and simple to use systems. He wrote his first native iOS app in 2008\. His work and published apps can be seen at<span> </span>[pixolini.com](http://pixolini.com/) and [jedipixels.dev](http://jedipixels.dev/). He developed systems for a diverse mix of industries including banking, health care, real estate, education, trucking, entertainment, and horizontal markets. Later, a leading banking software company acquired his MLN Enterprises, Inc. company. The main products were mortgage banking, processing, and marketing software. Next, he started consulting and later created IdeaBlocks, Inc. with the purpose of software development consulting. He developed for a client that sold hospitality software for mobile, desktop, and web. The main products focus was hotel sales, catering, webspace, guest service, and maintenance software. The products synced via cloud servers using MS SQL Server with encryption applied to sensitive data. A small list of his client’s customers was Hyatt Place and Summerfield, Hilton Hotel, Holiday Inn, Hampton Inn, Marriott, Best Western, Radisson Hotel, Sheraton Hotels, Howard Johnson, Embassy Suites, and many more. Once his contract was done, he closed IdeaBlocks, Inc. Today, his focus is running Pixolini, Inc. He develops mobile, desktop, and web apps for iOS, Mac, Android, Windows, and web. He also teaches a course at Udemy using a web app that he developed for analyzing real estate investment calculations. He developed and published over ten apps in each respective store. “I cannot code without Espresso, Cappuccino, Coffee, and love Martial Arts.”
+**Marco** is an active and passionate Flutter developer, specializing in mobile app development for iOS, Android, Web, and Desktop platforms. His journey in mobile app development began in 2008 when he created his first native iPhone app. However, it was during the Google I/O event in 2017 that Marco discovered Flutter, and since then, he has been fully immersed in Flutter development.
+
+As a dedicated developer, Marco takes complete ownership of the app development process, from conception to alpha/beta testing, MVP creation, release, and ongoing maintenance updates. His primary goal is to create visually elegant and user-friendly systems that seamlessly operate across multiple platforms.
+
+Early in his career, Marco developed mortgage banking, processing, and marketing software. The success of his work led to the acquisition of his company, MLN Enterprises, by a prominent banking software firm. Subsequently, he ventured into developing software for a client specializing in hospitality software solutions, eventually founding his next company, IdeaBlocks, Inc. IdeaBlocks client boasted a prestigious customer base, including renowned hotel franchises such as Hyatt Place, Summerfield, Hilton Hotel, Holiday Inn, Hampton Inn, Marriott, Best Western, Radisson Hotel, Sheraton Hotels, Howard Johnson, Embassy Suites, among others.
+
+Currently, Marco's focus revolves around the development of mobile, web, and desktop apps through his company, Pixolini, Inc. Alongside his professional work, he finds great joy in sharing his knowledge and expertise with others in the field of software development. Marco had the honor of being one of the first developers to be interviewed by Hillel Coren for the "It's All Widgets Flutter Podcast" on November 27th, 2018. In the episode, he discussed his expertise in app development, and you can access it at https://itsallwidgets.com/podcast/episodes/1/marco-napoli.
+
+Furthermore, Marco's passion for Flutter led him to write a book titled "Beginning Flutter: A Hands-On Guide To App Development." In this book, he offers practical guidance and insights for fellow developers embarking on their Flutter journey.
+
+On a personal note, Marco confesses his love for caffeine. He cannot code without his trusty companions: Espresso, Cappuccino, and Coffee. Additionally, he is an avid enthusiast of Martial Arts.
+
+Join Marco on this exciting journey of app development and exploration in the world of Flutter!
+
 
 [![Youtube](https://img.shields.io/static/v1?label=JediPixels&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/JediPixels?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/JediPixels?logo=GitHub&style=for-the-badge)][github]
 [![Website](https://img.shields.io/static/v1?label=JediPixels&message=Blog&color=5FB709&style=for-the-badge)][website]
+[![Website2](https://img.shields.io/static/v1?label=JediPixels&message=Blog&color=5FB709&style=for-the-badge)][website]
+[![Website3](https://img.shields.io/static/v1?label=JediPixels&message=Blog&color=5FB709&style=for-the-badge)][website]
 
 ### Projects Website Links
 
@@ -62,5 +77,8 @@ Current Projects that I have developed from ground zero to release using Flutter
 [youtube]: https://www.youtube.com/JediPixels?sub_confirmation=1
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJediPixels&screen_name=JediPixels
 [github]: https://github.com/JediPixels
-[website]: https://JediPixels.dev/blog
+[website]: https://JediPixels.dev
+[website2]: https://pixolini.com
+[website3]: https://PropertyFlipOrHold.com
+
 
