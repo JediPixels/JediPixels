@@ -47,10 +47,10 @@ Interviewed by Hillel Coren from the “It’s All Widgets Flutter Podcast” on
 
 Current Projects that I have developed from ground zero to release using Flutter, Firebase, iOS, macOS, Swift, Angular, HTML, Bootstrap and UWP.
 
-*   [http://pixolini.com](http://pixolini.com)
-*   [http://wantsandneedsapp.com](http://wantsandneedsapp.com)
-*   [http://battingaverageapp.com](http://battingaverageapp.com)
-*   [http://propertyfliporhold.com](http://propertyfliporhold.com)
+*   [https://pixolini.com](https://pixolini.com)
+*   [https://wantsandneedsapp.com](https://wantsandneedsapp.com)
+*   [https://battingaverageapp.com](https://battingaverageapp.com)
+*   [https://propertyfliporhold.com](https://propertyfliporhold.com)
 *   [](https://itunes.apple.com/us/developer/pixolini-inc/id579942437)[https://itunes.apple.com/us/developer/pixolini-inc/id579942437](https://itunes.apple.com/us/developer/pixolini-inc/id579942437)
 
 **Videos**
